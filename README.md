@@ -1,2 +1,2 @@
-# hello-word
-测试用
+var a =0;
+console.log(a);
